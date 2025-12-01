@@ -8,7 +8,7 @@ If you have a project in mind and you're interested in working with me and my te
 ----------
 
 - [Metadata and Preview Image Variations]
-- [Bespoke Character Design]
+- [Bespoke Character Design](bespoke-character-design/bespoke-character-content)
 - [Alt-text](alt-text)
 - [Typographic Composition]
 - [Metadata and Preview Image Variations]
