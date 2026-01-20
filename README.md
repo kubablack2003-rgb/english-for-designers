@@ -10,7 +10,7 @@ If you have a project in mind and you're interested in working with me and my te
 
 
 
-##### Also here is a preview of my course work in English Class (It is a work in progress):
+##### Also here is a preview of my course work in English Class (It is an early work in progress - you might experience some difficulties navigating through individual sections):
 
 - [Bespoke Character Design](bespoke-character-design/bespoke-character-content)
 - [Alt-text](alt-text)
