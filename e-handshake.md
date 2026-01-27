@@ -1,3 +1,4 @@
+![e-handshake-cover](img/e-handshake-cover.jpg)
 # Hi I'm Jacob
 I'm a founder and manager of a small creative agency called [KeySpace](https://www.keyspace.cz/). As far as communication goes, I am fluent in Czech, English and can speak B2 German. Our agency mission is to bring great value to your business through marketing, UX/UI and design solutions. My responsibility is to make sure that the value is on time and works with your company's budget.
 
