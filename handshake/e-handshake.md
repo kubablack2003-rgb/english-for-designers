@@ -8,4 +8,4 @@ If you have a project in mind and you're interested in working with me and my te
 ----
 
 
-##### ⬅[Back to main page](README.md)
+##### ⬅[Back to main page](/main-page/README.md)
