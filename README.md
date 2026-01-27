@@ -8,7 +8,7 @@ This chapter of our English coursework was primarly focused on accesibility in d
 
 * 1.1. [Design of a unique Bespoke Character](bespoke-character.md)
 * 1.2. [Design of a visual using our unique Bespoke Charcater](bespoke-character-visual.md)
-* 1.3. [Creation and structuring of metadata and Alt text](alt-text)
+* 1.3. [Creation and structuring of metadata and Alt text](alt-text.md)
 
 #### 2) 🤝🏻 Second Chapter - "First Impresions"
 This chapter of our English coursework was focused on creating public image with
