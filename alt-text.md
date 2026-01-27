@@ -1,1 +1,7 @@
 THIS IS A PAGE DEDICATED TO ALT TEXT AND METADATA COURSEWORK
+
+
+----
+
+
+##### ⬅[Back to main page](README.md)
