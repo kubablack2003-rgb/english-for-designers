@@ -1,6 +1,10 @@
 THIS IS A PAGE DEDICATED TO ALT TEXT AND METADATA COURSEWORK
 
-
+![METADATA version 01](img/METADATA-01.png)
+----
+![METADATA version 02](img/METADATA-02.png)
+----
+![METADATA version 03](img/METADATA-03.png)
 ----
 
 
