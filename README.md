@@ -6,7 +6,7 @@ Down below you can view a structured list of all my homeworks, thought processes
 #### 1) 📝 First Chapter - "Content first"
 This chapter of our English coursework was primarly focused on accesibility in design and writting. More specifically the accesibilty of content in web design and content developement.
 
-* 1.1. [Design of a unique Bespoke Character](bespoke-character-content)
+* 1.1. [Design of a unique Bespoke Character](bespoke-character-design)
 * 1.2. [Design of a visual using our unique Bespoke Charcater](bespoke-character-poster-content)
 * 1.3. [Creation and structuring of metadata and Alt text](alt-text)
 
