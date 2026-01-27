@@ -1,4 +1,15 @@
 THIS IS A PAGE DEDICATED TO MY PROFESIONAL PRESENTATION
 
+![P-F-01](img/PRESENTATION-FRAME-01.png)
+----
+![P-F-02](img/PRESENTATION-FRAME-02.png)
+----
+![P-F-03](img/PRESENTATION-FRAME-03.png)
+----
+![P-F-04](img/PRESENTATION-FRAME-04.png)
+----
+![P-F-05](img/PRESENTATION-FRAME-05.png)
+----
+![P-F-06](img/PRESENTATION-FRAME-06.png)
 ----
 ##### ⬅[Back to main page](README.md)
