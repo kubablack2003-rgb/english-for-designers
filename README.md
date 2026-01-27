@@ -13,6 +13,6 @@ This chapter of our English coursework was primarly focused on accesibility in d
 #### 2) 🤝🏻 Second Chapter - "First Impresions"
 This chapter of our English coursework was focused on creating public image with
 
-* 2.1. [Design of a personal business card focused on first impresions]()
+* 2.1. [Design of a personal business card focused on first impresions](businesscard.md)
 * 2.2. [Polishing of a profesional e-handshake](e-handshake.md)
 * 2.3. [Creation of a personal presentation](personal-presentation.md)
