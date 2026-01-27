@@ -1,19 +1,18 @@
-# Hi I'm Jacob
-I'm a founder and manager of a small creative agency called [KeySpace](https://www.keyspace.cz/). As far as communication goes, I am fluent in Czech, English and can speak B2 German. Our agency mission is to bring great value to your bussines through marketing, UX/UI and design solutions. My responsibility is to make sure that the value is on time and works with your company's budget.
+# 👨🏻‍💼 Hi I'm Jacob...
+...and this is a complete showcase of my coursework in English class that I've worked out through out this winter semseter. 
+Down below you can view a structured list of all my homeworks, thought processes, drafts and final results.
 
-If you have a project in mind and you're interested in working with me and my team, feel free to contact me through my [LinkedIn](https://www.linkedin.com/in/j-cerny-keyspace/).
+### 🗃️ English Course materials:
+#### 1) 📝 First Chapter - "Content first"
+This chapter of our English coursework was primarly focused on accesibility in design and writting. More specifically the accesibilty of content in web design and content developement.
 
-#### I'll make it happen for you.
+* 1.1. [Design of a unique Bespoke Character](bespoke-character-design)
+* 1.2. [Design of a visual using our unique Bespoke Charcater](bespoke-character-poster)
+* 1.3. [Creation and structuring of metadata and Alt text](alt-text)
 
-----------
+#### 2) 🤝🏻 Second Chapter - "First Impresions"
+This chapter of our English coursework was focused on creating public image with
 
-
-
-
-##### Also here is a preview of my course work in English Class: 
-###### (It is an early work in progress - you might experience some difficulties navigating through individual sections):
-
-- [Bespoke Character Design](bespoke-character-design/bespoke-character-content)
-- [Alt-text](alt-text)
-- [Typographic Composition](bespoke-character-poster/bespoke-character-poster-content.md)
-- [Self Presentation]
+* 2.1. [Design of a personal business card focused on first impresions](defefef)
+* 2.2. [Polishing of a profesional e-handshake](lfkffe)
+* 2.3. [Creation of a personal presentation](jnefn)
