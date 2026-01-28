@@ -1,5 +1,5 @@
-THIS IS A PAGE DEDICATED TO ALT TEXT AND METADATA COURSEWORK
-----
+# Creation and structuring of metadata and Alt text
+
 
 ![METADATA version 01](img/METADATA-VERSIONS-SMALL.png)
 ----
