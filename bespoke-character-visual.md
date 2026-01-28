@@ -1,6 +1,6 @@
 # Design of a visual using our unique Bespoke Charcater
 
-# ![PAPER CLIP POEM](img/paper-clip-poem.png)
+# ![A visual with white background containing a short poem located next to a photo of a large silver paperclip.](img/paper-clip-poem.png)
 
 This homework was a follow-up on the previouse task ([1.1. Design of a unique Bespoke character](bespoke-character.md)). In class we've been instructed to create a visual that thematically used our unique bespoke character as a initial letter in a short text. This work also aimed to practice our writting skills and so part of the task was to develop the short text as well.
 
