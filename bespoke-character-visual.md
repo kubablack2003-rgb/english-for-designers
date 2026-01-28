@@ -1,6 +1,5 @@
-# Visual and a short text with the use of a unique bespoke character 
+# Utilization of a bespoke character in a visual with short text
 
-----
 ![PAPER CLIP POEM](img/paper-clip-poem.png)
 
 ##### ⬅[Back to main page](README.md)
