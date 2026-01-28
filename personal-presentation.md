@@ -1,4 +1,4 @@
-THIS IS A PAGE DEDICATED TO MY PROFESIONAL PRESENTATION
+# Creation of a personal presentation
 
 ![P-F-01](img/PRESENTATION-FRAME-01.png)
 ----
