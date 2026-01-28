@@ -14,5 +14,5 @@ This chapter of our English coursework was primarly focused on accesibility in d
 This chapter of our English coursework was focused on creating public image with
 
 * 2.1. [Design of a personal business card focused on first impresions](business-card.md)
-* 2.2. [Polishing of a profesional e-handshake](e-handshake.md)
+* 2.2. [Development of a profesional e-handshake](e-handshake.md)
 * 2.3. [Creation of a personal presentation](personal-presentation.md)
