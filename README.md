@@ -16,6 +16,8 @@ This chapter of our English coursework was focused on creating public image with
 * 2.1. [Design of a personal business card focused on first impresions](business-card.md)
 * 2.2. [Development of a profesional e-handshake](e-handshake.md)
 * 2.3. [Creation of a personal presentation](personal-presentation.md)
-
+<br>
+<br>
+<br>
 
 ![This is the end of the page](img/below.png)
