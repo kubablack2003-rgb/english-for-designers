@@ -2,29 +2,29 @@
 ![This is an introduction slide](img/INTRODUCTION.png)
 Hello everyone! Today I'll tell you about my journey with designing my final thesis.
 
-![This slide introduces the theme of my thesis](img/THEPROJECT.png)
+![This slide introduces the theme of my thesis](img/THE_PROJECT.png)
 
 "A branding system for a media company. I wanted to connect all media channels with a system that would work across app, web, social media, video, audio, and print in a consistent way."
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![This slide shows the first draft of my thesis design](img/FIRTS_DRAFT_DESIGN.png)
 "I used to design and iterate as I worked. After a quick round of designing, I arrived at a first concept for a print magazine cover. But then I got stuck on this design for a month, without any breakthrough the whole time. So I chose a different approach."
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![Almost a blank slide](img/NEXT_THREE_MONTHS.png)
 "I did nothing. I didn't design anything, I didn't sketch anything. I spent all the time thinking about the scale, the way the systems interact, and what their limits are."
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![This is actually a blank slide](img/SIX_MONTHS.png)
 "After these 3 months, I decided it was time to move on. And so I did nothing — no design, no sketches, no visualizations."
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![This slide seems to be almost empty](img/2_MONTHS_TO_GO.png)
 "I did nothing. I spent all my time just thinking the whole concept through."
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![A blank timeline](img/TIMELINE.png)
 "To give you an idea of the timeline, here is a simple graph showing the start and deadline of the final thesis."
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![A timeline with a small red box](img/TIMELINE_02.png)
 "This is how much work I had done so far."
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![A timeline showing where I was timewise](img/TIMELINE_03.png)
 "After six months of designing nothing, I was around here, and most people around me were starting to get nervous (understandably)."
 
 ![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
