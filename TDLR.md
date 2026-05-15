@@ -1,4 +1,5 @@
 # "Today I learned speech"
+![This is an introduction photo](img/I_LIKE_POETRY.png)
 
 ### The Opening
 "I’ve been in business for almost two years now. But honestly? It wasn’t until last week that I felt like I actually finished my 'first season' in the big leagues.
