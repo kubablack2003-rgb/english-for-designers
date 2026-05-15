@@ -47,7 +47,7 @@ Chapter openings that work as visual breakpoints. Running heads that double as o
 * **Object** — the book should feel like something worth carrying
 
 ---
-![This slide introduces the theme of my thesis](img/BOOK_COVER.png)
+![Blue cover of the book](img/BOOK_COVER.png)
 ## The result
 
 A reader can carry the book without thinking about it, read one-handed on a moving train, lose their place and find it again in seconds, and finish a chapter between two stops.
@@ -55,7 +55,7 @@ A reader can carry the book without thinking about it, read one-handed on a movi
 > *"The book stops being a thing you sit down with. It becomes a thing you live alongside."*
 
 ---
-
+![Inside the book](img/TYPOGRAPHY_INSIDE.png)
 ## What I learned with such a small format
 
 Designing a small book is not the same as designing a small version of a book.
