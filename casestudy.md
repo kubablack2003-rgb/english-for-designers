@@ -76,3 +76,6 @@ Working with a client on a print project sharpened my decisions. There's no undo
 This was a focused exercise in designing for a specific reading context rather than a generic one. The pocket format forced clarity at every level: format, type, navigation, and finish. The result is a small book that takes its smallness seriously.
 
 Beyond the deliverable, the project deepened my understanding of how typography, format, and context shape a reader's experience — and how a single bad decision (like the wrong note style) can ripple through the whole page.
+
+##### ⬅[Back to main page](README.md)
+
