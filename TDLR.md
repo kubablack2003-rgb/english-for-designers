@@ -25,5 +25,6 @@ And the funniest part? The thing that kept me awake at night? It turns out that 
 So, stop trying to look like you have it all figured out. Start asking the 'dumb' questions, get the information you need, and keep moving. That's how you actually win the season."
 
 <br>
-[Back to main page](README.md)
+##### ⬅[Back to main page](README.md)
+
 
