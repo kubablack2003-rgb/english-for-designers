@@ -11,7 +11,7 @@ What sounded like a format constraint turned into a real design problem. A pocke
 I worked from cover to text: format, typography, layout, navigation inside the text, and the final print-ready file.
 
 ---
-
+![An ilustrative photo of a book that doesn't fit](img/POCKET_BOOK.png)
 ## How to make it work?
 
 A pocket book is a small object with a lot of constraints stacked on top of each other:
