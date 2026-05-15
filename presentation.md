@@ -1,4 +1,4 @@
-# This is the final presentation
+# My final presentation
 ![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
 Hello everyone! Today I'll tell you about my journey with designing my final thesis.
 
