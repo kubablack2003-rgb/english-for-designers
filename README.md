@@ -16,7 +16,12 @@ This chapter of our English coursework was focused on creating public image with
 * 2.1. [Design of a personal business card focused on first impresions](business-card.md)
 * 2.2. [Development of a profesional e-handshake](e-handshake.md)
 * 2.3. [Creation of a personal presentation](personal-presentation.md)
-<br>
+
+#### 3) 📢 Third Chapter - "Working on speech and presentation skills"
+This chapter of our English coursework was focused on our presentation skills and storytelling
+* 3.1. ["Today I learned speech"](TDLR.md)
+* 3.2. [Project case study](casestudy.md)
+* 3.3. [My final presentation](prsentation.md)
 <br>
 <br>
 
