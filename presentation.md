@@ -1,8 +1,9 @@
 # My final presentation notes & slides
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![This is an introduction slide](img/INTRODUCTION.png)
 Hello everyone! Today I'll tell you about my journey with designing my final thesis.
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![This slide introduces the theme of my thesis](img/THEPROJECT.png)
+
 "A branding system for a media company. I wanted to connect all media channels with a system that would work across app, web, social media, video, audio, and print in a consistent way."
 
 ![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
