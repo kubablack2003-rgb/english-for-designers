@@ -27,20 +27,20 @@ Hello everyone! Today I'll tell you about my journey with designing my final the
 ![A timeline showing where I was timewise](img/TIMELINE_03.png)
 "After six months of designing nothing, I was around here, and most people around me were starting to get nervous (understandably)."
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![A slide showing the amout of work done in three weeks](img/TIME_FOR_ACTION.png)
 "So after a brief recap, I decided I had given it enough thought to start designing. And it went great, because I knew exactly the limits in every aspect of the design system, so decisions about details were almost automatic. I designed a print magazine system, web system, mobile app system, social media system, and marketing communications in about 3 weeks in total."
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![THINK FIRST AND DESIGN LATER](img/THINK_FIRST.png)
 "Looking back at my journey, I realized something: at the start, while designing, I was focused only on the doing because I was under the pressure of needing to deliver something. People around me already had their logos and colors, and I was stuck with a seemingly not-so-good idea. But when I focused all my energy on thinking first, it all fell into place. With the availability of design tools becoming more open to beginners, with much smaller learning barriers thanks to AI, I encourage you to think first and design later."
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![Claude AI token tracker](img/THE_WORK_PROCESS_WITH_AI.png)
 "Though it might be easier to start generating logos right after reading the brief, I would say today — especially when looking at large systematic design problems — we need to think it through very well and very thoroughly. The act of creating (the doing) is no longer as time-consuming as it used to be, thanks to AI. However, just because it is much faster doesn't mean it is free.
 TOKENS COST MONEY. AS A DESIGNER, DON'T WASTE THEM ON A FOURTH CONCEPT THAT CAME UP RIGHT AWAY. GIVE IT SOME THOUGHT. THINK IT THROUGH."
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![THINK FIRST AND SAVE TOKENS](img/TOKENS.png)
 "THINK FIRST AND SAVE TOKENS"
 
-![This page is unfortunatelly empty, because I lost the bussines card that I made in class, sorry Justin.](img/aefe.png)
+![The end of presentation](img/TNAK_YOU.png)
 "Thank you for having me."
 
 ##### ⬅[Back to main page](README.md)
