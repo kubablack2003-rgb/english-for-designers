@@ -21,7 +21,7 @@ This chapter of our English coursework was focused on creating public image with
 This chapter of our English coursework was focused on our presentation skills and storytelling
 * 3.1. ["Today I learned speech"](TDLR.md)
 * 3.2. [Project case study](casestudy.md)
-* 3.3. [My final presentation](prsentation.md)
+* 3.3. [My final presentation](presentation.md)
 <br>
 <br>
 
